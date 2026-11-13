@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.StaticCast/01.StaticCast.vcxproj" Id="ee94e01f-5fe0-45ca-a57d-c78a595137b8" />
+  <Project Path="02.DynamicCast/02.DynamicCast.vcxproj" Id="521d805e-db9b-4f29-97bb-d5e947003496" />
+  <Project Path="03.ReinterpretCast/03.ReinterpretCast.vcxproj" Id="e17d9aed-44e9-49a3-ba2d-b56f22ddb591" />
+  <Project Path="04.ConstCast/04.ConstCast.vcxproj" Id="99b8a354-b00d-454b-9368-4153f4df18b6" />
+  <Project Path="HomeWork36/HomeWork36.vcxproj" Id="0d9382e5-fb66-4da9-afd4-0b4b388ba85f" />
+</Solution>
