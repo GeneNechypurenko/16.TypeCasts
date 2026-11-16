@@ -8,4 +8,5 @@
   <Project Path="03.ReinterpretCast/03.ReinterpretCast.vcxproj" Id="e17d9aed-44e9-49a3-ba2d-b56f22ddb591" />
   <Project Path="04.ConstCast/04.ConstCast.vcxproj" Id="99b8a354-b00d-454b-9368-4153f4df18b6" />
   <Project Path="HomeWork36/HomeWork36.vcxproj" Id="0d9382e5-fb66-4da9-afd4-0b4b388ba85f" />
+  <Project Path="HW36Solution/HW36Solution.vcxproj" Id="36022f3b-1154-45a1-9541-cf6743b30f29" />
 </Solution>
